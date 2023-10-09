@@ -1,0 +1,1 @@
+apabila kita sudah menginput 4 data, maka data terakhir akan memiliki num = 4, jika kita menghapus data ke 3, lalu memasukan lagi data baru, maka data terbaru akan memiliki num = 4 juga. karena data length yang kita miliki adalah 3 data, jadi apabila kita memasukkan data baru akan memiliki num 4
